@@ -16,6 +16,14 @@ I'm **karishma yadav**, a passionate software developer .  🌟
 - 🛢️ MongoDB
 - 🎨 CSS/html
 
+## Projects
+
+- Laptop price prediction(usnig ML)
+- IEEE formate paper present
+- Workshop on puthon
+- completed a certification based on ML and Data analytics
+- Created a full stack fronted and backend project
+
 ## Fun Facts
 
 - 🌈 I believe rainbows are just gradients in disguise.
