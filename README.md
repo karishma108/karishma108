@@ -15,18 +15,18 @@ I'm **karishma yadav**, a passionate software developer .  🌟
 - 📦 Node.js
 - 🛢️ MongoDB
 - 🎨 CSS/html
+- 💻 Java , SpringBoot
+- 💻 Postreg SQL
+- 💻 React.js , Postman , Git
 
 ## Projects
 
 - Laptop price prediction(usnig ML)
+- Chat Application(MERN , socket.io)
 - IEEE formate paper present
-- Workshop on puthon
+- Workshop on python
 - completed a certification based on ML and Data analytics
 - Created a full stack fronted and backend project
-
-## Fun Facts
-
-- 🌈 I believe rainbows are just gradients in disguise.
-- 🦄 My spirit animal is a pixelated unicorn.
+- Member Management Project(java , SpringBoot , postregSql)
 
 Feel free to connect with me! Let's together. 🌟
